@@ -1,4 +1,5 @@
 # Will modify vMath.cpp under ROS to be included here... eventually
+#Vector class is modeled in a 3-dimensional spherical coordinates system. 
 
 import math
 
